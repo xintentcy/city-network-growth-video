@@ -1,0 +1,19 @@
+# 运行时产物
+data/
+audio/
+out/
+*.mp4
+*.wav
+*.npy
+*.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# 系统
+.DS_Store
+Thumbs.db
